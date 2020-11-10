@@ -16,7 +16,9 @@ The chrome extension is currently pending review
 
 - download this repository
 
-- go to extensions [Chrome](chrome://extensions/) [Opera](opera://extensions)
+- go to extensions 
+[Chrome](chrome://extensions/) chrome://extensions/
+[Opera](opera://extensions) opera://extensions
 
 - ensure developer mode is turned on in the top right
 <p align="center">
