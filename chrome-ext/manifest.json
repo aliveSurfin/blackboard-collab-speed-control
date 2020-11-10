@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "blackboard-collab-speed-control",
+    "description":"Control the speed of Blackboard Collaborate Videos",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.bbcollab.com/collab/ui/session/playback*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "icons": {
+        "16": "16.png",
+        "48": "48.png",
+        "128": "128.png"
+    }
+}
