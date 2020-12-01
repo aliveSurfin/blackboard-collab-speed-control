@@ -14,7 +14,7 @@ Control the speed of Blackboard Collaborate videos
 
 Get the Chrome Extension [here](https://chrome.google.com/webstore/detail/blackboard-collab-speed-c/ocacgafaaahoakloknkbaikjmcohmhda)
 
-https://chrome.google.com/webstore/detail/blackboard-collab-speed-c/ocacgafaaahoakloknkbaikjmcohmhda/related
+https://chrome.google.com/webstore/detail/blackboard-collab-speed-c/ocacgafaaahoakloknkbaikjmcohmhda
 
 **Alternative Install**
 
